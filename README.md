@@ -7,6 +7,8 @@ This is the project assignment from PriceLabs.
 
 To set up this project on your local machine, follow these steps:
 
+
+
 1. **Clone the Repository**
    ```sh
    git clone https://github.com/JiteshBalani/PL-Assessment.git
@@ -16,6 +18,12 @@ To set up this project on your local machine, follow these steps:
    ```sh
    cd PL-Assessment
    ```
+
+**Make sure you have Node.js installed on your local machine. You can check by running:**
+   ```sh
+   node -v
+   ```
+If Node.js is not installed, download and install it from: https://nodejs.org/en/download
 
 3. **Install Dependencies**
    Since `node_modules` are ignored in version control, you need to install them using:
