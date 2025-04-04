@@ -26,6 +26,8 @@ To set up this project on your local machine, follow these steps:
 
 ## Usage
 
+For a quick check, you can directly run the command below. Hyderabad 
+
 After installing the Dependencies, open the index.js file and change the arguments of the function called on line no. 148.
 
 
