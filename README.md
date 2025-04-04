@@ -15,7 +15,7 @@ To set up this project on your local machine, follow these steps:
 
 2. **Navigate to the Project Directory**
    ```sh
-   cd repo-name
+   cd PL-Assessment
    ```
 
 3. **Install Dependencies**
