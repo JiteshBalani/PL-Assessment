@@ -11,7 +11,6 @@ To set up this project on your local machine, follow these steps:
    ```sh
    git clone https://github.com/JiteshBalani/PL-Assessment.git
    ```
-   Replace `your-username` and `repo-name` with your actual GitHub username and repository name.
 
 2. **Navigate to the Project Directory**
    ```sh
